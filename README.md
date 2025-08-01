@@ -28,9 +28,9 @@ The above flow shows:
 
 ---
 
-## 🧼 Silver Layer Transformation Example
+## 🧼 Data Model
 
-<img src="docs/silver_transformation.png" alt="Data Cleaning in Silver Layer" width="800"/>
+<img src="docs/data_model.png" alt="Data Model" width="800"/>
 
 ---
 
@@ -78,7 +78,8 @@ SQL-Data-Warehouse/
 - Sales trends & forecasting-ready models
 
 ##👨‍💻 Author
-Rohith A P
-📧 rohithap0819@gmail.com
-🔗 LinkedIn
-🔗 GitHub
+
+-Rohith A P
+-📧 rohithap0819@gmail.com
+-🔗 LinkedIn
+-🔗 GitHub
